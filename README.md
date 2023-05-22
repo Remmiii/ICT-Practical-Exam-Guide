@@ -13,4 +13,4 @@ A guide to help prepare for the practical exam on `23/05/2023`! Goodluck!
 8. The other frames are for you to practice on (frame 5, 6 and 7). Goodluck for the exam. 
 
 # 📚 Source Code: 
-https://drive.google.com/drive/folders/1DYGgSWB8lWE38Ma8fdYifVlIM5QbvjQj?usp=sharing
+https://drive.google.com/drive/folders/1DYGgSWB8lWE38Ma8fdYifVlIM5QbvjQj?usp=sharing or https://github.com/Remmiii/ICT-Practical-Exam-Guide
